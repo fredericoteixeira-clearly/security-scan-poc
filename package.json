@@ -1,0 +1,23 @@
+{
+  "name": "security-scan-poc",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredericoteixeira-clearly/security-scan-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredericoteixeira-clearly/security-scan-poc/issues"
+  },
+  "homepage": "https://github.com/fredericoteixeira-clearly/security-scan-poc#readme",
+  "dependencies": {
+    "axios": "^0.1.0",
+    "express": "^4.17.1"
+  }
+}
