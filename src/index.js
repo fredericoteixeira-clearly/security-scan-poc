@@ -3,7 +3,7 @@ const app =  express();
 const port =  process.env.PORT  ||  8080
 
 app.get('/', (req, res) => {
-    return res.status(200).json({ nome:  'Dpendabot test' });
+    return res.status(200).json({ nome:  'Dpendabot test - EJS 1.0.0' });
 });
 
 let server = app.listen(port, () => {
