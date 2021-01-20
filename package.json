@@ -22,6 +22,7 @@
     "ejs": "^2.5.5",
     "express": "^4.17.1",
     "html-purify": "^1.1.0",
+    "object-path": "^0.9.0",
     "parsejson": "0.0.1"
   }
 }
