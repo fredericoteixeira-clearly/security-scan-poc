@@ -18,7 +18,7 @@
   "homepage": "https://github.com/fredericoteixeira-clearly/security-scan-poc#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "dompurify": "^1.0.0",
+    "dompurify": "^2.0.17",
     "ejs": "^2.5.5",
     "express": "^4.17.1",
     "html-purify": "^1.1.0",
