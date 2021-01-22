@@ -30,8 +30,7 @@ jobs:
           git config --global user.email "frederico.teixeira@clearly.ca"
           git config --global user.name "Frederico Teixeira"
           git fetch --all
-          git checkout dependabot-branch-1
-          git merge main
+          git checkout -B dependabot-branch-1
           git commit
           git push
           echo Done!
