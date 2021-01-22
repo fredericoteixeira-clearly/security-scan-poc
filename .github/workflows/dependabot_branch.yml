@@ -29,9 +29,6 @@ jobs:
         run: |
           git config --global user.email "frederico.teixeira@clearly.ca"
           git config --global user.name "Frederico Teixeira"
-          echo TEST > TEST.txt
-          git add TEST.txt
-          git commit -m "TEST.txt"
-          git push
+          git checkout -b dependabot-branch-1
+          git push --set-upstream origin dependabot-branch-1
           echo Done!
-
