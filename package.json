@@ -26,6 +26,7 @@
     "nats": "^0.2.0",
     "npm-user-validate": "1.0.1",
     "object-path": "0.11.5",
+    "semantic-release": "^10.0.0",
     "systeminformation": "^1.0.0",
     "urijs": "^1.16.1",
     "xml-crypto": "^2.0.0"
