@@ -28,7 +28,7 @@ jobs:
       - name: Create dependabot-branch
         run: |
           echo TEST > TEST.txt
-          git add time.txt
+          git add TEST.txt
           git commit -m "TEST.txt"
           git push
           echo Done!
