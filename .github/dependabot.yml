@@ -4,6 +4,9 @@ version: 2
 updates:
   - package-ecosystem: "npm"
     directory: "/"
+    schedule:
+      interval: "daily"
+      time: "11:30"
     target-branch: "dependabot-2"
     # Labels on pull requests for security and version updates
     labels:
