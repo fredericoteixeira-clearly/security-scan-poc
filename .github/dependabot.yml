@@ -6,7 +6,7 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "11:30"
+      time: "11:40"
     target-branch: "dependabot-2"
     # Labels on pull requests for security and version updates
     labels:
