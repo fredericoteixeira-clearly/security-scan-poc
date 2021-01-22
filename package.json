@@ -24,7 +24,7 @@
     "ejs": "^3.1.5",
     "express": "^4.17.1",
     "nats": "^0.2.0",
-    "npm-user-validate": "0.0.3",
+    "npm-user-validate": "1.0.1",
     "object-path": "0.0.1",
     "systeminformation": "^1.0.0",
     "urijs": "^1.16.1",
