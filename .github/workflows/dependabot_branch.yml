@@ -27,6 +27,6 @@ jobs:
 
       - name: Create dependabot-branch
         run: |
-          git branch -b dependabot-branch
+          git branch dependabot-branch
           echo Done!
 
