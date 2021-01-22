@@ -29,6 +29,8 @@ jobs:
         run: |
           git config --global user.email "frederico.teixeira@clearly.ca"
           git config --global user.name "Frederico Teixeira"
-          git checkout -b dependabot-branch-1
-          git push --set-upstream origin dependabot-branch-1
+          git checkout dependabot-branch-1
+          git merge main
+          git commit
+          git push
           echo Done!
