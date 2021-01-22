@@ -27,10 +27,10 @@ jobs:
 
       - name: Create dependabot-branch
         run: |
-          git config --global user.email "frederico.teixeira@clearly.ca"
-          git config --global user.name "Frederico Teixeira"
-          git fetch --all
-          git checkout -B dependabot-2
-          git commit
-          git push
+#          git config --global user.email "frederico.teixeira@clearly.ca"
+#          git config --global user.name "Frederico Teixeira"
+#          git fetch --all
+#          git checkout -B dependabot-2
+#          git commit
+#          git push
           echo Done!
