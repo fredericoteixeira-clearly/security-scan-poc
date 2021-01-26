@@ -26,7 +26,7 @@
     "nats": "^0.2.0",
     "npm-user-validate": "0.0.3",
     "object-path": "0.0.1",
-    "systeminformation": "^1.0.0",
+    "systeminformation": "^5.0.2",
     "urijs": "^1.16.1",
     "xml-crypto": "^1.0.0"
   }
