@@ -18,16 +18,16 @@
   },
   "homepage": "https://github.com/fredericoteixeira-clearly/security-scan-poc#readme",
   "dependencies": {
-    "axios": "^0.2.1",
-    "bl": "^0.1.0",
+    "axios": "^0.21.1",
+    "bl": "^1.2.3",
     "dompurify": "^2.2.6",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
-    "nats": "^0.2.0",
+    "nats": "^1.4.12",
     "npm-user-validate": "1.0.1",
     "object-path": "0.11.5",
-    "semantic-release": "^10.0.0",
-    "systeminformation": "^1.0.0",
+    "semantic-release": "^10.0.1",
+    "systeminformation": "^5.0.2",
     "urijs": "^1.16.1",
     "xml-crypto": "^2.0.0"
   }
